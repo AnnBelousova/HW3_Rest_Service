@@ -1,0 +1,13 @@
+
+u
+java:S1602:"SRemove useless curly braces around statement and then remove useless return keyword(¸ÜžÔþÿÿÿÿ8ê“°úâ1
+d
+java:S1612:"BReplace this lambda with method reference 'this::claimToClaimDto'.(¸ÜžÔþÿÿÿÿ8ë“°úâ1
+u
+java:S1602G"SRemove useless curly braces around statement and then remove useless return keyword(¸ÜžÔþÿÿÿÿ8ì“°úâ1
+d
+java:S1612G"BReplace this lambda with method reference 'this::claimToClaimDto'.(¸ÜžÔþÿÿÿÿ8ì“°úâ1
+`
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(Þ–ð™øÿÿÿÿ8í“°úâ1
+[
+java:S1155u">Use isEmpty() to check whether the collection is empty or not.(å÷æ˜8ð“°úâ1

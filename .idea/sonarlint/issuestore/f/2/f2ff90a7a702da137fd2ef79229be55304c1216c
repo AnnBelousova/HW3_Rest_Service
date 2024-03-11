@@ -1,0 +1,25 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 4 times.(Öâ¶ùúÿÿÿÿ8ÅªÑß1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "Content-Type" 4 times.(Öâ¶ùúÿÿÿÿ8ÇªÑß1
+r
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ø‹ï­ÿÿÿÿÿ8ÒªÑß1
+r
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÍÑ¦Öşÿÿÿÿ8ÒªÑß1
+m
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(Ñ“½á8ÒªÑß1
+m
+java:S1989"PHandle the following exception that could be thrown by "getReader": IOException.(Ñ“½á8ÓªÑß1
+r
+java:S1989$"PHandle the following exception that could be thrown by "getWriter": IOException.(ŸõÌ¨ıÿÿÿÿ8ÓªÑß1
+r
+java:S1989$"PHandle the following exception that could be thrown by "getReader": IOException.(ŸõÌ¨ıÿÿÿÿ8ÕªÑß1
+v
+java:S1989)"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(êÍÖ¥8ÕªÑß1
+r
+java:S1989+"PHandle the following exception that could be thrown by "getWriter": IOException.(†–¨üÿÿÿÿ8ÕªÑß1
+c
+java:S1128"FRemove this unused import 'com.example.hw3_rest_service.dao.ClaimDao'.(Ğí†Š8Ÿıˆ“á1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(™Ÿ…ğ8ÕªÑß1

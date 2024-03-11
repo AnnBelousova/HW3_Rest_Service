@@ -1,0 +1,7 @@
+
+q
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¦¥αωÿÿÿÿ8³µ΅εβ1
+L	java:S106"+Replace this use of System.out by a logger.(µβ£δώÿÿÿÿ8·µ΅εβ1
+L	java:S106 "+Replace this use of System.out by a logger.(¨¶ΡΝώÿÿÿÿ8·µ΅εβ1
+O
+java:S1068"2Remove this unused "SELECT_USER_ID" private field.(ΰέ‘–8½µ΅εβ1
